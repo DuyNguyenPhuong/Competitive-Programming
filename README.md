@@ -1,2 +1,2 @@
 # Competitive-Programming
-Solution to Kattis and Codeforce Problem
+Solution to Kattis and Codeforce Problem I practiced
